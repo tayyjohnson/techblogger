@@ -1,0 +1,20 @@
+{
+  "name": "techblogger",
+  "version": "1.0.0",
+  "description": "A simple tech blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayyjohnson/techblogger.git"
+  },
+  "author": "Taylor Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tayyjohnson/techblogger/issues"
+  },
+  "homepage": "https://github.com/tayyjohnson/techblogger#readme"
+}
